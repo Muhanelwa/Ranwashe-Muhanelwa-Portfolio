@@ -1,5 +1,3 @@
-# Ranwashe-Muhanelwa-Portfolio
-
 # Ranwashe Muhanelwa's Portfolio
 
 ## Project Overview
